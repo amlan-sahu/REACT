@@ -1,11 +1,12 @@
-
+import Chai from "./chai.jsx"; 
 
 function App() {
   
 
   return (
     <>
-      <h1>hello</h1>
+      <h1>hello hi</h1>
+      <Chai/>
     </>
   )
 }
