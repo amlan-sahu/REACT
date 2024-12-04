@@ -1,4 +1,4 @@
-import UserContexProvider from './contex/UserContexProvider'
+import UserContexProvider from './contexts/UserContexProvider'
 
 import './App.css'
 import Login from './components/Login'
